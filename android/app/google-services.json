@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399387964888",
+    "project_id": "raymartassignment4",
+    "storage_bucket": "raymartassignment4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399387964888:android:6471790c0c563c3e166ead",
+        "android_client_info": {
+          "package_name": "com.example.trace_app_3c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCmW-62Gcci_WPrFVWFb_3dmkcj4JuKUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
